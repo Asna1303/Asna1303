@@ -27,8 +27,6 @@
         <img src="https://skillicons.dev/icons?i=firebase" alt="icon" width="65" height="65" />
       <br>Firebase
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96"> 
         <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="Git" />
       <br>FastAPI
@@ -41,6 +39,8 @@
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub" />
       <br>Github
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="48" height="48" />
       <br>C++
@@ -49,8 +49,6 @@
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
       <br>HTML
     </td>
-    </tr>
-    <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
       <br>CSS
@@ -59,7 +57,8 @@
         <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="tailwind" />
       <br>C
     </td>
- </tr>
+    </tr>
+   
 </table>
 
 
