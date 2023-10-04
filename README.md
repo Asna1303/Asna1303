@@ -63,6 +63,11 @@ A Hardworking and Enthusiastic fresher seeking an opportunity to secure a positi
 </table>
 
 
+## ✨ Top Languages Card
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asna1303&layout=compact&theme=tokyonight)
+
+
 
 [linkedin]: https://www.linkedin.com/in/asna-t-h/
 [gmail]: mailto:asnahamza333@gmail.com
