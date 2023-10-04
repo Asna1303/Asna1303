@@ -4,5 +4,9 @@
 ## 🙋‍♂️ About Me
 
 
+[linkedin]: https://www.linkedin.com/in/asna-t-h/
+[gmail]: mailto:asnahamza333@gmail.com
+
+
 
 
