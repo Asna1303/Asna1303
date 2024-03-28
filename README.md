@@ -40,6 +40,10 @@ A Hardworking and Enthusiastic fresher seeking an opportunity to secure a positi
         <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/figma-icon.svg" width="48" height="48" alt="Git" />
       <br>Figma
     </td>
+     <td align="center" width="96"> 
+        <img src="https://mui.com/static/logo.png" width="48" height="48" alt="Git" />
+      <br>Mui
+    </td>
     <td align="center" width="96"> 
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
