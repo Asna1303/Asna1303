@@ -24,6 +24,10 @@ A Hardworking and Enthusiastic fresher seeking an opportunity to secure a positi
         <img src="https://cdn.iconscout.com/icon/free/png-512/free-java-60-1174953.png?f=webp&w=256" alt="icon" width="65" height="65" />
       <br>Java
     </td>
+     <td align="center" width="96">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU6gpKxjrBqLM3ZzDJAUwx7gqZITUyw-C0wg&usqp=CAU" alt="icon" width="65" height="65" />
+      <br>Canva
+    </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
       <br>React
