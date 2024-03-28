@@ -33,6 +33,10 @@ A Hardworking and Enthusiastic fresher seeking an opportunity to secure a positi
       <br>FastAPI
     </td>
     <td align="center" width="96"> 
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/figma-icon.svg" width="48" height="48" alt="Git" />
+      <br>FastAPI
+    </td>
+    <td align="center" width="96"> 
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
     </td>
