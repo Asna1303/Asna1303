@@ -25,6 +25,10 @@ A Hardworking and Enthusiastic fresher seeking an opportunity to secure a positi
       <br>Java
     </td>
      <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/172px-Python-logo-notext.svg.png" alt="icon" width="65" height="65" />
+      <br>Python
+    </td>
+     <td align="center" width="96">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU6gpKxjrBqLM3ZzDJAUwx7gqZITUyw-C0wg&usqp=CAU" alt="icon" width="65" height="65" />
       <br>Canva
     </td>
