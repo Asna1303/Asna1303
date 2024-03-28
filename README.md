@@ -29,7 +29,7 @@ A Hardworking and Enthusiastic fresher seeking an opportunity to secure a positi
       <br>Python
     </td>
      <td align="center" width="96">
-        <img src="https://iconscout.com/free-icon/mongodb" alt="icon" width="65" height="65" />
+        <img src="https://cdn.iconscout.com/icon/free/png-512/free-mongodb-226029.png?f=webp&w=256" width="65" height="65" />
       <br>MongoDB
     </td>
      <td align="center" width="96">
