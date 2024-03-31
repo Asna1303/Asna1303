@@ -3,6 +3,7 @@
 [<img align="center" height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
 ## 🙋‍♂️ About Me
 A Hardworking and Enthusiastic fresher seeking an opportunity to secure a position where I can efficiently contribute my skills and abilities in tech field.
+
 ![](https://komarev.com/ghpvc/?username=Asna1303&label=PROFILE+VIEWS)
 
 ## 🧰 My Tech Toolbox
