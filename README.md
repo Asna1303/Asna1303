@@ -95,7 +95,8 @@ A Hardworking and Enthusiastic fresher seeking an opportunity to secure a positi
 
 # 📊 GitHub Status:
 
-https://github-readme-streak-stats.herokuapp.com/?user=Asna1303
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Asna1303&theme=dark&background=000000)](https://git.io/streak-stats)
+
 
 
 ## 🏆 GitHub Trophies
