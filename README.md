@@ -100,7 +100,7 @@ A Hardworking and Enthusiastic fresher seeking an opportunity to secure a positi
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Asna1303&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark
 
 ---
 
