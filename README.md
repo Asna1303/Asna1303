@@ -93,6 +93,12 @@ A Hardworking and Enthusiastic fresher seeking an opportunity to secure a positi
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asna1303&layout=compact&theme=tokyonight)
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Asna1303&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Asna1303&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Asna1303&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
+
 
 
 [linkedin]: https://www.linkedin.com/in/asna-t-h/
