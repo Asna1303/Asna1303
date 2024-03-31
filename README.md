@@ -93,7 +93,7 @@ A Hardworking and Enthusiastic fresher seeking an opportunity to secure a positi
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asna1303&layout=compact&theme=tokyonight)
 
-# 📊 GitHub Status:
+# 📊 GitHub Stats:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Asna1303&theme=dark&background=000000)](https://git.io/streak-stats)
 
