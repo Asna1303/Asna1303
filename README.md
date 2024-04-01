@@ -98,6 +98,10 @@ A Hardworking and Enthusiastic fresher seeking an opportunity to secure a positi
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Asna1303&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
+![contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=Asna1303&theme=xcode)
+
+
+
 
 ## 🏆 GitHub Trophies
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)
