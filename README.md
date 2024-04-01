@@ -104,7 +104,7 @@ A Hardworking and Enthusiastic fresher seeking an opportunity to secure a positi
 
 
 ## 🏆 GitHub Trophies
-![[GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)
 
 ---
 
