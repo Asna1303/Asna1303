@@ -95,7 +95,7 @@ A Hardworking and Enthusiastic fresher seeking an opportunity to secure a positi
 
 # 📊 GitHub Stats:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Asna1303&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DenverCoder1)](https://git.io/streak-stats)
 
 
 ![contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=Asna1303&theme=xcode)
