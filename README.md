@@ -84,6 +84,10 @@ A Hardworking and Enthusiastic fresher seeking an opportunity to secure a positi
         <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="tailwind" />
       <br>C
     </td>
+     <td align="center" width="96">
+        <img src="https://1000logos.net/wp-content/uploads/2020/08/SQLite-Logo.png" width="48" height="48" alt="SQLite" />
+      <br>C
+    </td>
     </tr>
    
 </table>
