@@ -1,8 +1,16 @@
 ### <h1 align="center">Hi, I'm Asna T H</h1>
+<p align="center"> 
+  <samp>
+    <a href="https://www.google.com/search?q=Asna+TH">「 Google Me 」</a>
+    <br>
+    「 I am a Full Stack Developer 」
+    <br>
+  </samp>
+</p>
 [<img align="center" height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 [<img align="center" height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
 ## 🙋‍♂️ About Me
-A Hardworking and Enthusiastic fresher seeking an opportunity to secure a position where I can efficiently contribute my skills and abilities in tech field.
+A Hardworking and Enthusiastic fresher seeking an opportunity to secure a position where I can efficiently contribute my skills and abilities in the tech field.
 
 ![](https://komarev.com/ghpvc/?username=Asna1303&label=PROFILE+VIEWS)
 
