@@ -38,6 +38,10 @@ A Hardworking and Enthusiastic fresher seeking an opportunity to secure a positi
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="Rest" width="65" height="65" />
       <br>Rest
     </td>
+       <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1200px-Sqlite-square-icon.svg.png" alt="SQLite" width="65" height="65" />
+      <br>SQLite
+    </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="65" height="65" />
       <br>Firebase
