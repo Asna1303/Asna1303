@@ -27,10 +27,6 @@ A Hardworking and Enthusiastic fresher seeking an opportunity to secure a positi
       <br>Dart
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="65" height="65" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="Javascript" width="65" height="65" />
       <br>Javascript
     </td>
