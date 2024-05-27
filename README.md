@@ -18,50 +18,38 @@ A Hardworking and Enthusiastic fresher seeking an opportunity to secure a positi
 ## 🧰 My Tech Toolbox
 <table>
   <tr>
-  <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=flutter" width="65" height="65"alt="Flutter" />
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=flutter" width="65" height="65" alt="Flutter" />
       <br>Flutter
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dart" width="65" height="65"alt="Dart" />
+        <img src="https://skillicons.dev/icons?i=dart" width="65" height="65" alt="Dart" />
       <br>Dart
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://skillicons.dev/icons?i=go" alt="icon" width="65" height="65" />
-      </a>
-      <br>Go
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://skillicons.dev/icons?i=postgresql" alt="icon" width="65" height="65" />
-      </a>
+        <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="65" height="65" />
       <br>PostgreSQL
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="Javascript" width="65" height="65" />
       <br>Javascript
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-      <br>Typescript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
       <br>React
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="Rest" width="65" height="65" />
       <br>Rest
     </td>
-     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=firebase" alt="icon" width="65" height="65" />
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="65" height="65" />
       <br>Firebase
     </td>
   </tr>
   <tr>
-  <td align="center" width="96"> 
-        <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="Git" />
+    <td align="center" width="96"> 
+        <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
       <br>FastAPI
     </td>
     <td align="center" width="96"> 
@@ -73,72 +61,54 @@ A Hardworking and Enthusiastic fresher seeking an opportunity to secure a positi
       <br>Github
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="48" height="48" />
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="48" height="48" />
       <br>C++
     </td>
-    <td align="center"  width="96">
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
       <br>HTML
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
       <br>CSS
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="48" height="48" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
       <br>Python
     </td>
-     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="HTML" />
-      <br>Spring
-    </td>
   </tr>
- <tr>
- <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Postman" />
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node" />
       <br>Node
     </td>
-     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=ruby" width="48" height="48" alt="HTML" />
-      <br>Ruby
-    </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
       <br>Tailwind
     </td>
-     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="tailwind" />
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
       <br>Php
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="48" height="48" />
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="48" height="48" />
       <br>Java
     </td>
-     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="tailwind" />
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
       <br>C
     </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-      <br>Postman
-    </td>
-            <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="mysql" />
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="MySQL" />
       <br>MySQL
     </td>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="JQuery" />
       <br>JQuery
     </td>
-   
- </tr>
+  </tr>
 </table>
+
 
 
 ## ✨ Top Languages Card
