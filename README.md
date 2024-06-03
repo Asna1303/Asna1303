@@ -79,16 +79,8 @@ A Hardworking and Enthusiastic fresher seeking an opportunity to secure a positi
   </tr>
   <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node" />
-      <br>Node
-    </td>
-    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
       <br>Tailwind
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-      <br>Php
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="48" height="48" />
@@ -101,10 +93,6 @@ A Hardworking and Enthusiastic fresher seeking an opportunity to secure a positi
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="MySQL" />
       <br>MySQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="JQuery" />
-      <br>JQuery
     </td>
   </tr>
 </table>
