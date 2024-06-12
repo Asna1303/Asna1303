@@ -86,10 +86,6 @@ A Hardworking and Enthusiastic fresher seeking an opportunity to secure a positi
         <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
       <br>C
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="MySQL" />
-      <br>MySQL
-    </td>
      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
       <br>MongoDB
