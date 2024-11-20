@@ -91,6 +91,16 @@
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
       <br>MongoDB
     </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      <br>Postman
+    </td>
+      <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=postgresql" alt="icon" width="65" height="65" />
+      </a>
+      <br>PostgreSQL
+    </td>
   </tr>
 </table>
 
