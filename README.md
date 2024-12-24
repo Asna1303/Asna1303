@@ -120,7 +120,7 @@
 
 
 ## 🏆 GitHub Trophies
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Asna1303&theme=onedark)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Asna1303&theme=onedark)
 
 ---
 
