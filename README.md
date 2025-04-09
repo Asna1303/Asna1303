@@ -101,6 +101,10 @@
       </a>
       <br>PostgreSQL
     </td>
+      <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=ruby" width="48" height="48" alt="HTML" />
+      <br>Ruby
+    </td>
   </tr>
 </table>
 
